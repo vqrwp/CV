@@ -73,7 +73,7 @@ Hobbies:	Gaming, stock photography
 
 **REFERENCES** 	
 
- [My colleague, who can give a reference](https://www.linkedin.com/in/oxana-avdeenko/) 
+ [My colleague, who can give a reference](https://www.linkedin.com/in/andrei-kulikov-243359293/)) 
  
 Margaret is an exceptional project manager with a talent for driving success. Their leadership, attention to detail, and ability to foster collaboration make them an asset to any team. I highly recommend her for any project management role.
 
