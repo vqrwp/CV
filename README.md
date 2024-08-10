@@ -4,7 +4,6 @@
 
 **Technical IT Project Manager**
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a379548c-0060-493e-ac33-6d625684e349" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 [**My LinkedIn**](https://www.linkedin.com/in/maksimovapm-digital/)
 
