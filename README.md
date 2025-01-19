@@ -7,7 +7,9 @@
 
 [**My LinkedIn**](https://www.linkedin.com/in/maksimovapm-digital/)
 
->Results-driven Project Manager with more than three years of proven expertise in leading cross-functional teams to successfully deliver projects on time and within budget. Skilled in project planning, risk management, and stakeholder communication, with a focus on driving efficiency and exceeding client expectations. Proficient in utilizing project management tools and methodologies to streamline processes and maximize productivity.
+>I am a Project Manager with 4 years of experience in the IT industry. I possess a strong technical background, having studied programming in university and possessing foundational knowledge in Python, C++, and Git. I am proficient in utilizing project management tools (Jira, Notion) and methodologies (Agile, Scrum, Scrumban) to streamline processes and maximize productivity.
+
+I have successfully built teams from scratch and implemented Scrum in previously chaotic environments, bringing order to disorganized operations. I am accountable for my actions and decisions. 
 
  
 **Phone:**	
@@ -16,28 +18,26 @@
   margaret.michenko@gmail.com 
 
 **KEY COMPETENCIES**  	
-+ Technical background: I studied software development in university, and wrote my code using C++, C, Python, and Assembly. Currently, I am studying Dart / Flutter for my project. Most importantly, I widely use my expertise in my everyday work, can speak developers’ language, and translate their words to the stakeholders. Here is [my repository.](https://github.com/vqrwp)
++ Technical background: I studied software development in university, and wrote my code using C++, C, Python, and Assembly. Most importantly, I widely use my expertise in my everyday work, can speak developers’ language, and translate their words to the stakeholders. Here is [my repository.](https://github.com/vqrwp)
 +	Dot The I’s and Cross the T’s: my teams and I have successfully released 2 large CRMs (one for an aero spare parts company, the other for a shipping company from Singapore), an Android-based marketplace for crops for the Indonesian market, numerous landings, chatbots, and more. I conducted all projects starting from initialization up until the release.
 
  **EXPERIENCE**  	
  
 📈 ***IT Project Manager (April 2023 – present)***
 
-*CyberIT FZCO (Dubai / Remote) Startup with focus on crypto security / 20+ employees*
+*CyberIT FZCO (Dubai / Remote) Startup with a focus on crypto security / 20+ employees*
 
-+ Prepared project proposal, project roadmap, budget, and other documentation
-+	Defined and assigned tasks to each member of the team
-+	Solved problems that turned up throughout the development cycle
-+	Created prototypes before the designers lay their eyes on the project
-+	Tested software alongside the QA engineer
-+	Established meaningful connections with stakeholders, taking into consideration cultural differences: I have had clients from Singapore, Australia, India, Indonesia
-+	Led a team of IT professionals (20 people in total) to complete a major IT project on time and within budget
-+	Performed risk evaluation and risk management
++	Led 5 projects simultaneously (for example, I have had in parallel development of a CRM system, an Android chat application, a payment system using cryptocurrency, a social media monitoring system, and a website that analyzes financial documents)
++	Came to a team where processes were not set up at all and tasks were not kept track of, introduced daily meetings, and sprints, and accustomed the team to weekly deployments to production with demonstration to the client, which led to the successful release of several projects
++	Prepare project proposal, project roadmap, budget, and other documentation
++	Establish meaningful connections with stakeholders, taking into consideration cultural differences: I have had clients from Singapore, Australia, India, Indonesia
++	Led multiple teams of IT specialists (25 people in total) to complete several projects simultaneously on time and within budget
++	Additionally: Perform HRM activities such as staff recruiting, selecting, orienting, and training them 
 *Achievements:*
-+	Accepted the project from the previous manager, established processes, established a good relationship with the client, although he wanted to break the contract
-+	Delivered 2 large CRMs on time and within budget (one is for shipping company, other for aviation company), one Android application – crops marketplace for Indonesian farmers
-+	Came to a team where processes were not set up at all and tasks were not kept track of, introduced daily meetings, sprints, and accustomed the team to weekly releases, which led to the successful release of several projects
-
++	A large CRM for an air spare parts company – around 30 internal company users make more than 1000 requests to the website every day, this CRM turned out to be highly efficient, automatized the company’s processes, and reduced time to close a deal by 20%, increased sales growth by 50% (data is brought from the clients’ survey, which I prepared) 
++	Android application – crops marketplace which connects farmers, traders, and factories, several thousand users in Indonesia
++	Social media monitoring platform – a website that tracks posts all over the internet with certain keywords in them, the platform has reports and analytics, allowing you to quickly identify negative reviews and respond to them
++	I accepted the project from the previous manager, which was led without any strict methodology, implemented scrum: sprints, daily meetings, demos, retroes, etc., proved our worth to the client and drastically improve our relationship with them, although they wanted to break the contract before my involvement
 
 📖 ***Project manager (December 2020 – April 2023)*** 
 
@@ -71,12 +71,4 @@ Technical skills:
 **ADDITIONAL INFORMATION** 	
 
 Hobbies:	Gaming, stock photography
-
-**REFERENCES** 	
-
- [My colleague, who can give a reference](https://www.linkedin.com/in/andrei-kulikov-243359293/)) 
- 
-Margaret is an exceptional project manager with a talent for driving success. Their leadership, attention to detail, and ability to foster collaboration make them an asset to any team. I highly recommend her for any project management role.
-
-(you can view this reference on my LinkedIn profile)
 
