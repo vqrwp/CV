@@ -32,8 +32,10 @@ I have successfully built teams from scratch and implemented Scrum in previously
 +	Prepare project proposal, project roadmap, budget, and other documentation
 +	Establish meaningful connections with stakeholders, taking into consideration cultural differences: I have had clients from Singapore, Australia, India, Indonesia
 +	Led multiple teams of IT specialists (25 people in total) to complete several projects simultaneously on time and within budget
-+	Additionally: Perform HRM activities such as staff recruiting, selecting, orienting, and training them 
++	Additionally: Perform HRM activities such as staff recruiting, selecting, orienting, and training them
+
 *Achievements:*
+
 +	A large CRM for an air spare parts company – around 30 internal company users make more than 1000 requests to the website every day, this CRM turned out to be highly efficient, automatized the company’s processes, and reduced time to close a deal by 20%, increased sales growth by 50% (data is brought from the clients’ survey, which I prepared) 
 +	Android application – crops marketplace which connects farmers, traders, and factories, several thousand users in Indonesia
 +	Social media monitoring platform – a website that tracks posts all over the internet with certain keywords in them, the platform has reports and analytics, allowing you to quickly identify negative reviews and respond to them
@@ -48,7 +50,9 @@ I have successfully built teams from scratch and implemented Scrum in previously
 +	Publishing pages via CMSs (Drupal, Bitrix, FirstSpirit)
 +	Working with large data arrays on products and customers: collecting and systematizing data, conducting analytics, reporting on data
 +	Supported and coordinated 2 large nets of websites for building and decoration materials companies
+
 *Achievements:* 
+
 +	Integrated configuration of PIM-system and client’s internal system that simplified the content transmission
 +	Provided ongoing support and coordination for two major networks of websites, ensuring optimal performance and uptime, which contributed to a 37% increase in web traffic and user engagement
 
